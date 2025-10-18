@@ -1,3 +1,4 @@
+
 Nombre = "Ferney Reina"
 Edad = 19
 esta_aprendiendo = True

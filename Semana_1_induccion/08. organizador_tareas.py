@@ -1,4 +1,3 @@
-# organizador_de_tareas.py
 
 # Lista global para almacenar las tareas
 tareas = []

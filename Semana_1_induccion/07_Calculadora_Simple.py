@@ -1,3 +1,4 @@
+
 def introducirNumeros ():
     global numero1, numero2
     numero1 = int(input("Ingreso un primer número : "))
